@@ -28,5 +28,3 @@ Repositório dedicado ao estudo e implementação de arquiteturas avançadas de 
    ```
 3. Configure suas chaves de API no arquivo `.env` (use o `.env.example` como base).
 
----
-*Estudos realizados por DUDU.*
